@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Workspace/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/jsoup-1.11.3.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
