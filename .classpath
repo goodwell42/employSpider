@@ -10,5 +10,7 @@
 	<classpathentry kind="lib" path="D:/Workspace/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="D:/Workspace/ezmorph-1.0.6.jar"/>
 	<classpathentry kind="lib" path="D:/Workspace/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/mybatis-3.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/mysql-connector-java-8.0.13.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
